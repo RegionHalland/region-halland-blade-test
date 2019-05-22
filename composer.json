@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-blade-test",
+    "description": "Test av releasehantering av en blade-fil",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
