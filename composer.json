@@ -1,7 +1,7 @@
 {
     "name": "regionhalland/region-halland-blade-test",
     "description": "Test av releasehantering av en blade-fil",
-    "type": "template",
+    "type": "wordpress-template",
     "license": "MIT",
     "authors": [
         {
